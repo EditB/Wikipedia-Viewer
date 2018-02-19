@@ -1,0 +1,20 @@
+body{
+  text-align: center;
+}
+
+#searchContainer{
+padding: 15px;
+  }
+
+#wikiEntries{
+  padding: 20px;
+  text-align: left;
+}
+
+h4{
+  color: #13aedd;
+  }
+
+
+
+
